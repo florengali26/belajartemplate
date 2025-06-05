@@ -8,3 +8,10 @@ header.masthead {
 header.masthead::after {
     background-color: black;
 }
+.text-primary {
+    color: #024d71 !important;
+}
+.portfolio-item img {
+    height: 300px;
+    object-fit: cover;
+}
